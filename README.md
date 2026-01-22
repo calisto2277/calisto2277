@@ -1,58 +1,54 @@
-- 👋 Hi, I’m @calisto2277
-- 👀 I’m interested in economics,mathematics and machine learning
-- 🌱 I’m currently learning pretty much everything
-- 💞️ I’m looking to collaborate on any economics oriented project.
-- 📫 How to reach me : can mail me on sarthaksakshamgaur@gmail.com
-<!-- Logo or Banner -->
-<p align="center">
-  <img src="https://your-image-link.com/logo.png" alt="Project Logo" width="200">
-</p>
+# Hi, I’m Sarthak 👋
 
-<!-- Project Title -->
-<h1 align="center">Your Project Name</h1>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/build-passing-brightgreen">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
-  <img src="https://img.shields.io/github/stars/yourusername/your-repo.svg">
-  <img src="https://img.shields.io/github/forks/yourusername/your-repo.svg">
-</p>
-
-<!-- Project Description -->
-<p align="center">Short and catchy project description that grabs attention.</p>
+I’m an **Economics undergraduate** with strong interests in  
+**Mathematics, Machine Learning, and Natural Language Processing**,  
+especially where they intersect with **economic analysis and policy**.
 
 ---
 
-## 🚀 Features
-- **Fast**: Highly optimized for speed and performance.
-- **Easy to Use**: Simple and intuitive to get started with.
-- **Customizable**: Easily adaptable to your needs.
-- **Cross-Platform**: Works on any OS.
+### 👀 Interests
+- Applied & theoretical **Economics**
+- **Mathematics** for optimization and modeling
+- **Machine Learning** (classical + deep learning)
+- **Natural Language Processing** for text-based economic data
 
 ---
 
-## 📖 Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Screenshots](#screenshots)
-4. [Contributing](#contributing)
-5. [License](#license)
+### 🌱 Currently Learning
+- Econometrics & causal inference
+- Machine learning for economic applications
+- NLP models (LSTMs, Transformers) for text classification
+- Data analysis using **Python, R, STATA**
 
 ---
 
-## 🛠 Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+### 💞️ Open to Collaborations On
+- Economics-oriented research projects
+- Policy analysis & impact evaluation
+- ML / NLP projects involving real-world data
+- Reproducible research & empirical studies
 
-# Navigate to the project directory
-cd your-repo
+---
 
-# Install dependencies
-npm install
+### 📫 How to Reach Me
+📧 **Email**: sarthaksakshamgaur@gmail.com  
+🔗 **GitHub**: [@calisto2277](https://github.com/calisto2277)
 
-<!---
-calisto2277/calisto2277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠 Tech Stack
+- **Languages**: Python, R, C  
+- **ML / NLP**: scikit-learn, NLTK, PyTorch  
+- **Econometrics**: STATA  
+- **Tools**: Git, LaTeX, Jupyter, Linux
+
+---
+
+## 📌 Featured Work
+I use this GitHub to share:
+- Course & self-driven projects
+- Machine learning experiments
+- Economics-focused data analysis
+- Research code & reports
+
+Feel free to explore, fork, or reach out!

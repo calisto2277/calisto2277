@@ -22,7 +22,7 @@ especially where they intersect with **economic analysis and policy**.
 
 ---
 
-### 💞️ Open to Collaborations On
+###  Open to Collaborations On
 - Economics-oriented research projects
 - Policy analysis & impact evaluation
 - ML / NLP projects involving real-world data
@@ -38,7 +38,7 @@ especially where they intersect with **economic analysis and policy**.
 
 ## 🛠 Tech Stack
 - **Languages**: Python, R, C  
-- **ML / NLP**: scikit-learn, NLTK, PyTorch  
+- **ML / NLP**: scikit-learn, NLTK, PyTorch,seaborn  
 - **Econometrics**: STATA  
 - **Tools**: Git, LaTeX, Jupyter, Linux
 

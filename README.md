@@ -37,10 +37,10 @@ especially where they intersect with **economic analysis and policy**.
 ---
 
 ## 🛠 Tech Stack
-- **Languages**: Python, R, C  
-- **ML / NLP**: scikit-learn, NLTK, PyTorch,seaborn  
-- **Econometrics**: STATA  
-- **Tools**: Git, LaTeX, Jupyter, Linux
+- **Languages**: Python, R, C, SQL  
+- **ML / NLP**: scikit-learn, NLTK, PyTorch,seaborn 
+- **Econometrics**: STATA, SPSS 
+- **Tools**: Git, LaTeX, 
 
 ---
 

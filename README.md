@@ -3,6 +3,7 @@
 I’m an **Economics undergraduate** with strong interests in  
 **Mathematics, Machine Learning, and Natural Language Processing**,  
 especially where they intersect with **economic analysis and policy**.
+My major field of interest inclues macrofinance
 
 ---
 
@@ -11,6 +12,9 @@ especially where they intersect with **economic analysis and policy**.
 - **Mathematics** for optimization and modeling
 - **Machine Learning** (classical + deep learning)
 - **Natural Language Processing** for text-based economic data
+- **Macroeconomics** RBC,DSGE,MONETARY POLICY
+- **Time Series Analysis**
+- **Finance** asset pricing and portfolio optimization
 
 ---
 

@@ -1,9 +1,9 @@
 # Hi, I’m Sarthak 👋
 
-I’m an **Economics undergraduate** with strong interests in  
+I’m an **Economics graduate** with strong interests in  
 **Mathematics, Machine Learning, and Natural Language Processing**,  
 especially where they intersect with **economic analysis and policy**.
-My major field of interest inclues macrofinance
+My major field of interest inclues macrofinance and monetary economics
 
 ---
 
